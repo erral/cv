@@ -143,6 +143,10 @@
         {
           "name": "plone",
           "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
         }
       ]
     }
