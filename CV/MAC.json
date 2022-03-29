@@ -117,6 +117,24 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Computer Science Engineering",
+        "startDate": "1999-09-01",
+        "finishDate": "2004-07-01",
+        "institution": {
+          "name": "Euskal Herriko Unibertsitatea - Universidad del País Vasco",
+          "description": "",
+          "URL": "https://www.ehu.eus/eu/web/informatika-fakultatea",
+          "image": {
+            "alt": "logo (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/4cd59305-847c-4cfe-a367-6ba1d785afbb_logo-(1).png"
+          }
+        }
+      }
     ]
   },
   "careerPreferences": {
