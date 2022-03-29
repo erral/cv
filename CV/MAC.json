@@ -33,6 +33,65 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "CodeSyntax",
+          "image": {
+            "alt": "logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/191248c3-70c3-42b5-a5c2-3ac3969a2d0b_logo.png"
+          },
+          "URL": "https://www.codesyntax.com"
+        },
+        "roles": [
+          {
+            "name": "Python web Developer",
+            "startDate": "2004-09-01",
+            "challenges": [
+              {
+                "description": "Web development. Mostly backend development using Plone (Zope, Python) and Django."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "CMS",
+                "type": "technology"
+              },
+              {
+                "name": "web hosting",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
