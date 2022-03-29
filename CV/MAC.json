@@ -31,6 +31,12 @@
         "type": "other",
         "URL": "https://stackoverflow.com/users/1427863/mikel-larreategi"
       }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Chess player and international chess arbiter :P",
+        "fact": "Playing chess since I was 10 and since 2005 I am International Chess arbiter, highest category recognised by the World Chess Federation (FIDE): https://ratings.fide.com/profile/22232540"
+      }
     ]
   },
   "experience": {
@@ -104,20 +110,6 @@
         "name": "Basque"
       }
     ],
-    "hardSkills": [
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Django",
-          "type": "technology"
-        }
-      }
-    ],
     "studies": [
       {
         "studyType": "officialDegree",
@@ -150,28 +142,6 @@
       "preferredCompetences": [
         {
           "name": "plone",
-          "type": "technology"
-        },
-        {
-          "name": "Python",
-          "type": "technology"
-        },
-        {
-          "name": "Django",
-          "type": "technology"
-        },
-        {
-          "name": "TypeScript",
-          "type": "technology"
-        },
-        {
-          "name": "React",
-          "type": "technology"
-        }
-      ],
-      "discardedCompetences": [
-        {
-          "name": "Python",
           "type": "technology"
         }
       ]
